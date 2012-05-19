@@ -1,1 +1,3 @@
 This repository contains python codes written for the interview with Aegif Corporation.
+test1_kawabe.py contains "Fizz Buzz".
+test2_kawabe.py contains "Pangrams".
